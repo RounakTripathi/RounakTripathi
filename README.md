@@ -28,14 +28,14 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/itshivam/">Rounak Tripathi</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/rounak-tripathi-7766291a6/">Rounak Tripathi</a></b>
         </samp>
 </h3>
 
 <!-- Search  -->
 <p align="center"> 
   <samp>
-    <a href="https://www.linkedin.com/in/itshivam/">「 Connect with me 」</a>
+    <a href="https://www.linkedin.com/in/rounak-tripathi-7766291a6/">「 Connect with me 」</a>
     <br>
     「 I am Software Developer & full stack Web Developer 」
     <br>
@@ -77,12 +77,11 @@
 <hr>
 <div align="centre">
         <ul>
-            <li>🔭 <b>I’m currently working on</b>: Next.js, Django, Golang, SwiftUI</li>
-            <li>🌱 <b>I’m currently learning</b>: DevOps, Framer Motion.</li>
-            <li>💬 <b>Ask me about</b>: Web Development, iOS Developments, App Development and Competetive Programming.</li>
+            <li>🔭 <b>I’m currently working on</b>: React, NodeJS, ExpressJS, Next.js</li>
+            <li>🌱 <b>I’m currently learning</b>: Cloud Computing</li>
+            <li>💬 <b>Ask me about</b>: Web Development, Software Development and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: pen Source Projects</li>
-            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.me">My Portfolio</a>.</li>
         </ul>  
 <hr>
   
