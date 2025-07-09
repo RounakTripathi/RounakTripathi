@@ -256,7 +256,7 @@
 About Me = {
 "I find joy in crafting elegant solutions through the art of coding.",
 "Proficient in languages like C++ and Java, I navigate the digital realm with expertise.",
-"My expertise extends to the intricate web technologies of NextJS, Golang, and DevOps, where I blend creativity and functionality seamlessly.",
+"My expertise extends to the intricate web technologies of MERN Stack & Cloud Computing.",
 "I am more than a student; I am a creator, a problem solver, and a Developer."
 "Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
 }
