@@ -6,7 +6,7 @@
 
   <div>
     <div align="center">
-        <a href="https://github.com/RounakTripathi/"><img src="front+github.png" height="400" /></a>
+        <a href="https://github.com/RounakTripathi/"><img src="front github.png" height="400" /></a>
     </div>
   </div> 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
