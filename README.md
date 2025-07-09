@@ -250,19 +250,18 @@
 </div>
 <hr>
 
-<!-- About me  -->
+<h2 align="center">About Me 🚀</h2>
+<p align="center">
+  Hi! I'm <strong>Rounak Tripathi</strong>, a passionate Computer Science & Engineering student (B.Tech, 2022–2026) with a strong focus on <strong>Software Development</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Machine Learning</strong>.
+</p>
 
-```js
-About Me = {
-"I find joy in crafting elegant solutions through the art of coding.",
-"Proficient in languages like C++ and Java, I navigate the digital realm with expertise.",
-"My expertise extends to the intricate web technologies of MERN Stack & Cloud Computing.",
-"I am more than a student; I am a creator, a problem solver, and a Developer."
-"Together, let's push the boundaries of what's possible and shape a future powered by code. ✨"
-}
-```
-
-
+<ul>
+  <li>💻 I love building real-world applications that solve real problems — from <strong>AI-powered sign language systems</strong> to <strong>secure face-recognition-based voting platforms</strong>.</li>
+  <li>🌐 <strong>Tech Stack:</strong> C++, Python, JavaScript, Node.js, React.js, MongoDB, Django, OpenCV, and more.</li>
+  <li>🧠 I'm always exploring new technologies in <strong>Cloud Computing</strong>, <strong>MERN Stack</strong>, and <strong>System Design</strong>.</li>
+  <li>📊 <strong>Problem Solver:</strong> Solved 550+ problems on LeetCode and 4⭐ on HackerRank.</li>
+  <li>🚀 Currently seeking opportunities for <strong>SDE roles</strong>, <strong>internships</strong>, and <strong>collaborative open-source projects</strong>.</li>
+</ul>
 
 
 
@@ -273,3 +272,9 @@ About Me = {
 ![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="center">
+  
+<h3> 📄  Please check out my <a href="https://drive.google.com/file/d/1Euq4caQzQZz-IfjQ85tnPzQzcLjCrdli/view?usp=drive_link"> Resume </a> ❤ for more information about my experience and skills.</h3>
+
+</div>
